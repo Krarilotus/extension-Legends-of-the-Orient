@@ -24,8 +24,3 @@ tags:
 family:
 - name: legends-of-the-orient
   root: true
-capabilities:
-  files: true
-  code: true
-  configuration: true
-  options: false
