@@ -1,7 +1,7 @@
 name: Legends-Of-The-Orient
 display-name: Legends Of The Orient
 author: Crusader Pilaw
-version: 3.1.7
+version: 3.1.8
 dependencies:
   ai-ox-tethers: "^1.0.3"
   custom-skirmish-trails: "^1.2.2"
@@ -16,3 +16,16 @@ dependencies:
 type: plugin
 meta:
   version: 1.0.0
+tags:
+- modpack
+- ai
+- maps
+- balance
+family:
+- name: legends-of-the-orient
+  root: true
+capabilities:
+  files: true
+  code: true
+  configuration: true
+  options: false
